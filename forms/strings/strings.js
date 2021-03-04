@@ -1,3 +1,5 @@
+/*
+
 let quoteString="Failure is simply the opportunity to begin again this time more intelligently."
 console.log(`Upper case string is: ${quoteString.toUpperCase()}`)
 let authorString = "- Henry Ford"
@@ -8,3 +10,5 @@ if (found==true)
   console.log("Henry was in completeString.")
 else
   console.log("Henry was NOT in completeString.")       
+  
+  */
